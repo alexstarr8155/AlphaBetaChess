@@ -1,0 +1,6 @@
+1. That the starting node be the largest or smallest value in the heap, (max vs min heap). 
+     And that the tree must complete.
+2. A full tree is a heap that is completely filled in all locations of the the bottom row.
+3. A complete tree is one where all the empty nodes are in the bottom right of the heap.
+4. A max heap is a heap where the first node is the largest, and each subsequent node is less. A min heap is a heap where the first node is the smallest, and all others are larger.
+5. 
